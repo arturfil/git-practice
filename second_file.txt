@@ -1,1 +1,2 @@
 this is a secondary text for example
+I did reset --hard and reflog in order to travel back and forth between commits
