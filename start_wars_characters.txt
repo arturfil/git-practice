@@ -1,3 +1,3 @@
-- bobafett
-- django
-- din djarin
+- Bobafett
+- Django
+- Din djarin
