@@ -4,6 +4,7 @@
     <li>Grind Beans</li>
     <li>Put Ground Coffee on portafilter</li>
     <li>put portafilter in machine</li>
+    <li>warm machine before brew</li>
     <li>Brew Coffee</li>
     <li>Enjoy! ☕️</li>
 </ol>
