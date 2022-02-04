@@ -5,3 +5,4 @@
 - Green Goblin
 - Thanos
 - Kang the conqueror
+- Shocker
