@@ -6,4 +6,3 @@ I'm writing this for extra func
 - Trying to stash this line
 - Added new line without conflict
 - This is something extra that should not collide
-
