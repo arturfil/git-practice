@@ -1,5 +1,5 @@
-##Git Commands
-###Here I'm going to be writing git commands
+## Git Commands
+### Here I'm going to be writing git commands
 
 For reference "-" is an abreviation flag, "--" is a words flag
 
@@ -120,6 +120,7 @@ git add file2, git commit -m “message file2”git reset HEAD^
 git rebase —continue
 ```
 ```git push -u origin main```
+<br/>
 "-u" sets the origin as default for later not have to do git push origin main 
 git push knows that you are pushing to "origin" but still it's good practice
 "origin" is the name of the repo ON GITHUB (**it's a standar but doesn't necesarily have to be origin**)
