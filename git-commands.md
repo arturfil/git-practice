@@ -20,17 +20,25 @@ added more
 ```
 
 <strong>Ammend git message</strong>
-```git commit --amend -m "new message"```
+```
+git commit --amend -m "new message"
+```
 
 
 <strong>Ammend git message in vim</strong>
-```git commit --ammend```
+```
+git commit --ammend
+```
 
 <strong>Resert commit SOFT by one </strong>
-```git reset --soft HEAD^```
+```
+git reset --soft HEAD^
+```
 
 <strong>Reset commit SOFT by hash commit</strong>
-```git reset —soft <commit_hash>```
+```
+git reset —soft <commit_hash>
+```
 
 <strong>Reset commit MIXED by hash commit</strong>
 ```
@@ -39,18 +47,28 @@ git restet —mixed <commit_hash>
 ```
 
 <strong>Reset commit HARD by hash commit</strong>
-```git reset —hard <commit_hash>```
+```
+git reset —hard <commit_hash>
+```
 
 <strong>Check all the history even after deleting files</strong>
-```git reflog ```
+```
+git reflog 
+```
 after reflog you could do: 
-```git reset —hard <commit_hash>```
+```
+git reset —hard <commit_hash>
+```
 
 <strong>rename file in git repo</strong>
-```git mv ./file_name new_file_name```
+```
+git mv ./file_name new_file_name
+```
 
 <strong>delete file from repo</strong>
-```git rm file_name```
+```
+git rm file_name
+```
 
 <strong>merge other branch to main</strong>
 ```
@@ -63,7 +81,9 @@ git branch -d <branch_name>
 ```
 
 <strong>delete branch force</strong>
-```git  branch -d <branch_name> -f```
+```
+git  branch -d <branch_name> -f
+```
 
 <strong>show logs</strong>
 ```
@@ -109,7 +129,9 @@ squash 08asdf234 message of commit
 ```
 <strong>git rebase reword (change name) number of heads</strong>
 
-```git rebase -i HEAD~3 ```
+```
+git rebase -i HEAD~3
+```
 
 <strong>git rebase edit (make two commits from one</strong>
 ```
@@ -119,7 +141,9 @@ git add file1, git commit -m “message file1”
 git add file2, git commit -m “message file2”git reset HEAD^
 git rebase —continue
 ```
-```git push -u origin main```
+```
+git push -u origin main
+```
 <br/>
 "-u" sets the origin as default for later not have to do git push origin main 
 git push knows that you are pushing to "origin" but still it's good practice
