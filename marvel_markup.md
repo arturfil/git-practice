@@ -1,6 +1,7 @@
 # Villains
 
 - Joker
+- venom
 - Kingping
 - Green Goblin
 - Thanos
